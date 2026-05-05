@@ -11,6 +11,7 @@ public class MainClass {
 	    System.out.println("*************************************************");
 		System.out.println("Welcome to Ecommerce - App !!!");
 		System.out.println("*************************************************");
+		System.out.println("*************************************************");
 		ProductInterface pc = new ProductController();
 		Scanner sc = new Scanner(System.in);
 		String continueChoice=null;
