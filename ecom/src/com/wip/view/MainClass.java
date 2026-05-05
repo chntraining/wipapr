@@ -1,3 +1,4 @@
+//done
 package com.wip.view;
 
 import java.util.Scanner;
@@ -10,7 +11,6 @@ public class MainClass {
 	public static void main(String[] args) {
 	    System.out.println("*************************************************");
 		System.out.println("Welcome to Ecommerce - App !!!");
-		System.out.println("*************************************************");
 		System.out.println("*************************************************");
 		ProductInterface pc = new ProductController();
 		Scanner sc = new Scanner(System.in);
